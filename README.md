@@ -1,2 +1,7 @@
 # leaflet-challenge
-This challenge provides an interactive map to visualize earthquake data collected by the USGS.
+USGS Earthquake Visualisation :
+
+This challenge provides an interactive map to visualize earthquake data collected by The United States Geological Survey.
+
+
+
